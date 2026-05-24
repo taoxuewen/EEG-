@@ -18,3 +18,5 @@ env/
 *.set
 *.fdt
 data/raw/
+report_figures/
+mne_data/
